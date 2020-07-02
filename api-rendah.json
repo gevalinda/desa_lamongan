@@ -1,5 +1,6 @@
 {
-    "data": [{
+    "data": [
+        {
             "id": 1,
             "district_id": 1,
             "title": "Babat",
@@ -8,7 +9,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 8,
                     "village_id": 1,
                     "tanggal": "2019-11-03",
@@ -169,7 +171,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 9,
                     "village_id": 2,
                     "tanggal": "2019-11-03",
@@ -222,7 +225,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 11,
                     "village_id": 3,
                     "tanggal": "2019-11-03",
@@ -280,18 +284,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 130,
-                "village_id": 5,
-                "tanggal": "2019-08-14",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 1,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 130,
+                    "village_id": 5,
+                    "tanggal": "2019-08-14",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 1,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 1,
                 "title": "Babat",
@@ -325,18 +331,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 88,
-                "village_id": 7,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "50 cm"
-            }],
+            "histories": [
+                {
+                    "id": 88,
+                    "village_id": 7,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "50 cm"
+                }
+            ],
             "district": {
                 "id": 1,
                 "title": "Babat",
@@ -489,18 +497,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 30,
-                "village_id": 16,
-                "tanggal": "2019-03-19",
-                "kepala_keluarga": 10,
-                "jiwa": 50,
-                "rumah": 10,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "60"
-            }],
+            "histories": [
+                {
+                    "id": 30,
+                    "village_id": 16,
+                    "tanggal": "2019-03-19",
+                    "kepala_keluarga": 10,
+                    "jiwa": 50,
+                    "rumah": 10,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "60"
+                }
+            ],
             "district": {
                 "id": 1,
                 "title": "Babat",
@@ -568,18 +578,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 96,
-                "village_id": 20,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 96,
+                    "village_id": 20,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 1,
                 "title": "Babat",
@@ -630,18 +642,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 10,
-                "village_id": 23,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "20 hektar",
-                "jalan": "0 - 30 cm "
-            }],
+            "histories": [
+                {
+                    "id": 10,
+                    "village_id": 23,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "20 hektar",
+                    "jalan": "0 - 30 cm "
+                }
+            ],
             "district": {
                 "id": 1,
                 "title": "Babat",
@@ -675,18 +689,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 98,
-                "village_id": 25,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 98,
+                    "village_id": 25,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 2,
                 "title": "Bluluk",
@@ -1060,18 +1076,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 121,
-                "village_id": 47,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "1000 M"
-            }],
+            "histories": [
+                {
+                    "id": 121,
+                    "village_id": 47,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "1000 M"
+                }
+            ],
             "district": {
                 "id": 4,
                 "title": "Deket",
@@ -1088,7 +1106,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 115,
                     "village_id": 48,
                     "tanggal": "2019-04-15",
@@ -1214,7 +1233,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 116,
                     "village_id": 54,
                     "tanggal": "2019-04-15",
@@ -1318,18 +1338,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 117,
-                "village_id": 58,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 117,
+                    "village_id": 58,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 4,
                 "title": "Deket",
@@ -1346,18 +1368,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 118,
-                "village_id": 59,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 118,
+                    "village_id": 59,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 4,
                 "title": "Deket",
@@ -1374,18 +1398,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 3,
-                "village_id": 60,
-                "tanggal": "2019-12-01",
-                "kepala_keluarga": 69,
-                "jiwa": 345,
-                "rumah": 69,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 3,
+                    "village_id": 60,
+                    "tanggal": "2019-12-01",
+                    "kepala_keluarga": 69,
+                    "jiwa": 345,
+                    "rumah": 69,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 5,
                 "title": "Glagah",
@@ -1419,7 +1445,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 56,
                     "village_id": 62,
                     "tanggal": "2019-10-04",
@@ -1472,7 +1499,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 54,
                     "village_id": 63,
                     "tanggal": "2019-10-04",
@@ -1513,18 +1541,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 108,
-                "village_id": 64,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 108,
+                    "village_id": 64,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 5,
                 "title": "Glagah",
@@ -1728,7 +1758,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 53,
                     "village_id": 76,
                     "tanggal": "2019-10-04",
@@ -1781,7 +1812,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 7,
                     "village_id": 77,
                     "tanggal": "2019-08-03",
@@ -1839,7 +1871,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 6,
                     "village_id": 79,
                     "tanggal": "2019-08-03",
@@ -1965,7 +1998,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 5,
                     "village_id": 85,
                     "tanggal": "2019-08-03",
@@ -2023,7 +2057,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 57,
                     "village_id": 87,
                     "tanggal": "2019-10-04",
@@ -2064,7 +2099,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 55,
                     "village_id": 88,
                     "tanggal": "2019-10-04",
@@ -2105,18 +2141,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 62,
-                "village_id": 89,
-                "tanggal": "2019-11-04",
-                "kepala_keluarga": 15,
-                "jiwa": 75,
-                "rumah": 10,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "10",
-                "jalan": "15 cm"
-            }],
+            "histories": [
+                {
+                    "id": 62,
+                    "village_id": 89,
+                    "tanggal": "2019-11-04",
+                    "kepala_keluarga": 15,
+                    "jiwa": 75,
+                    "rumah": 10,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "10",
+                    "jalan": "15 cm"
+                }
+            ],
             "district": {
                 "id": 6,
                 "title": "Kalitengah",
@@ -2133,18 +2171,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 63,
-                "village_id": 90,
-                "tanggal": "2019-11-04",
-                "kepala_keluarga": 15,
-                "jiwa": 75,
-                "rumah": 26,
-                "sekolah": 1,
-                "kantor_desa": 0,
-                "sawah": "15",
-                "jalan": "250 cm"
-            }],
+            "histories": [
+                {
+                    "id": 63,
+                    "village_id": 90,
+                    "tanggal": "2019-11-04",
+                    "kepala_keluarga": 15,
+                    "jiwa": 75,
+                    "rumah": 26,
+                    "sekolah": 1,
+                    "kantor_desa": 0,
+                    "sawah": "15",
+                    "jalan": "250 cm"
+                }
+            ],
             "district": {
                 "id": 6,
                 "title": "Kalitengah",
@@ -2229,7 +2269,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 39,
                     "village_id": 95,
                     "tanggal": "2019-06-04",
@@ -2282,7 +2323,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 65,
                     "village_id": 96,
                     "tanggal": "2019-11-04",
@@ -2442,18 +2484,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 66,
-                "village_id": 104,
-                "tanggal": "2019-11-04",
-                "kepala_keluarga": 15,
-                "jiwa": 75,
-                "rumah": 25,
-                "sekolah": 2,
-                "kantor_desa": 0,
-                "sawah": "5",
-                "jalan": "200 cm"
-            }],
+            "histories": [
+                {
+                    "id": 66,
+                    "village_id": 104,
+                    "tanggal": "2019-11-04",
+                    "kepala_keluarga": 15,
+                    "jiwa": 75,
+                    "rumah": 25,
+                    "sekolah": 2,
+                    "kantor_desa": 0,
+                    "sawah": "5",
+                    "jalan": "200 cm"
+                }
+            ],
             "district": {
                 "id": 6,
                 "title": "Kalitengah",
@@ -2470,18 +2514,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 67,
-                "village_id": 105,
-                "tanggal": "2019-11-04",
-                "kepala_keluarga": 9,
-                "jiwa": 45,
-                "rumah": 26,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "5",
-                "jalan": "100 cm"
-            }],
+            "histories": [
+                {
+                    "id": 67,
+                    "village_id": 105,
+                    "tanggal": "2019-11-04",
+                    "kepala_keluarga": 9,
+                    "jiwa": 45,
+                    "rumah": 26,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "5",
+                    "jalan": "100 cm"
+                }
+            ],
             "district": {
                 "id": 6,
                 "title": "Kalitengah",
@@ -2515,7 +2561,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 38,
                     "village_id": 107,
                     "tanggal": "2019-06-04",
@@ -2636,7 +2683,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 49,
                     "village_id": 112,
                     "tanggal": "2019-08-04",
@@ -2711,7 +2759,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 45,
                     "village_id": 115,
                     "tanggal": "2019-08-04",
@@ -2781,7 +2830,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 47,
                     "village_id": 117,
                     "tanggal": "2019-08-04",
@@ -2822,18 +2872,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 2,
-                "village_id": 118,
-                "tanggal": "2019-12-01",
-                "kepala_keluarga": 2,
-                "jiwa": 10,
-                "rumah": 2,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 2,
+                    "village_id": 118,
+                    "tanggal": "2019-12-01",
+                    "kepala_keluarga": 2,
+                    "jiwa": 10,
+                    "rumah": 2,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 7,
                 "title": "Karangbinangun",
@@ -2901,18 +2953,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 1,
-                "village_id": 122,
-                "tanggal": "2019-12-01",
-                "kepala_keluarga": 24,
-                "jiwa": 120,
-                "rumah": 24,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 1,
+                    "village_id": 122,
+                    "tanggal": "2019-12-01",
+                    "kepala_keluarga": 24,
+                    "jiwa": 120,
+                    "rumah": 24,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 7,
                 "title": "Karangbinangun",
@@ -2929,7 +2983,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 50,
                     "village_id": 123,
                     "tanggal": "2019-08-04",
@@ -2987,7 +3042,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 46,
                     "village_id": 125,
                     "tanggal": "2019-08-04",
@@ -3040,7 +3096,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 44,
                     "village_id": 126,
                     "tanggal": "2019-08-04",
@@ -3093,7 +3150,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 48,
                     "village_id": 127,
                     "tanggal": "2019-08-04",
@@ -3248,18 +3306,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": null,
-            "histories": [{
-                "id": 25,
-                "village_id": 134,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 54,
-                "jiwa": 115,
-                "rumah": 54,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 25,
+                    "village_id": 134,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 54,
+                    "jiwa": 115,
+                    "rumah": 54,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 8,
                 "title": "Karanggeneng",
@@ -3548,18 +3608,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 102,
-                "village_id": 151,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 102,
+                    "village_id": 151,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 9,
                 "title": "Kedungpring",
@@ -3576,18 +3638,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 99,
-                "village_id": 152,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 99,
+                    "village_id": 152,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 9,
                 "title": "Kedungpring",
@@ -3672,18 +3736,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 101,
-                "village_id": 157,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 101,
+                    "village_id": 157,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 9,
                 "title": "Kedungpring",
@@ -3768,18 +3834,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 100,
-                "village_id": 162,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 100,
+                    "village_id": 162,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 9,
                 "title": "Kedungpring",
@@ -3847,18 +3915,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 104,
-                "village_id": 166,
-                "tanggal": "2019-04-15",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "25 cm"
-            }],
+            "histories": [
+                {
+                    "id": 104,
+                    "village_id": 166,
+                    "tanggal": "2019-04-15",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "25 cm"
+                }
+            ],
             "district": {
                 "id": 9,
                 "title": "Kedungpring",
@@ -3875,7 +3945,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 103,
                     "village_id": 167,
                     "tanggal": "2019-04-15",
@@ -3933,7 +4004,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 105,
                     "village_id": 169,
                     "tanggal": "2019-04-15",
@@ -4671,18 +4743,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 16,
-                "village_id": 211,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 32,
-                "jiwa": 160,
-                "rumah": 32,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "14 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 16,
+                    "village_id": 211,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 32,
+                    "jiwa": 160,
+                    "rumah": 32,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "14 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -4699,18 +4773,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 20,
-                "village_id": 212,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 16,
-                "jiwa": 80,
-                "rumah": 16,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "18 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 20,
+                    "village_id": 212,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 16,
+                    "jiwa": 80,
+                    "rumah": 16,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "18 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -4744,18 +4820,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 12,
-                "village_id": 214,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 35,
-                "jiwa": 175,
-                "rumah": 35,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "10 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 12,
+                    "village_id": 214,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 35,
+                    "jiwa": 175,
+                    "rumah": 35,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "10 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -4772,18 +4850,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 21,
-                "village_id": 215,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "66",
-                "jalan": "19 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 21,
+                    "village_id": 215,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "66",
+                    "jalan": "19 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -4885,18 +4965,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 13,
-                "village_id": 221,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 15,
-                "jiwa": 75,
-                "rumah": 15,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "11 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 13,
+                    "village_id": 221,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 15,
+                    "jiwa": 75,
+                    "rumah": 15,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "11 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -4913,7 +4995,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 18,
                     "village_id": 222,
                     "tanggal": "2019-11-03",
@@ -4978,18 +5061,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 15,
-                "village_id": 223,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 11,
-                "jiwa": 55,
-                "rumah": 11,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "13 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 15,
+                    "village_id": 223,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 11,
+                    "jiwa": 55,
+                    "rumah": 11,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "13 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -5006,7 +5091,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "tinggi",
-            "histories": [{
+            "histories": [
+                {
                     "id": 17,
                     "village_id": 224,
                     "tanggal": "2019-11-03",
@@ -5047,18 +5133,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 14,
-                "village_id": 225,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 83,
-                "jiwa": 415,
-                "rumah": 83,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "12 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 14,
+                    "village_id": 225,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 83,
+                    "jiwa": 415,
+                    "rumah": 83,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "12 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -5075,18 +5163,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 19,
-                "village_id": 226,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 45,
-                "jiwa": 225,
-                "rumah": 45,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "V",
-                "jalan": "17 - 60 cm"
-            }],
+            "histories": [
+                {
+                    "id": 19,
+                    "village_id": 226,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 45,
+                    "jiwa": 225,
+                    "rumah": 45,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "V",
+                    "jalan": "17 - 60 cm"
+                }
+            ],
             "district": {
                 "id": 12,
                 "title": "Laren",
@@ -5256,18 +5346,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 34,
-                "village_id": 236,
-                "tanggal": "2019-03-19",
-                "kepala_keluarga": 0,
-                "jiwa": 108,
-                "rumah": 18,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 34,
+                    "village_id": 236,
+                    "tanggal": "2019-03-19",
+                    "kepala_keluarga": 0,
+                    "jiwa": 108,
+                    "rumah": 18,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 13,
                 "title": "Maduran",
@@ -5284,18 +5376,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 26,
-                "village_id": 237,
-                "tanggal": "2019-11-03",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 cm"
-            }],
+            "histories": [
+                {
+                    "id": 26,
+                    "village_id": 237,
+                    "tanggal": "2019-11-03",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 cm"
+                }
+            ],
             "district": {
                 "id": 13,
                 "title": "Maduran",
@@ -5788,7 +5882,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 4,
                     "village_id": 266,
                     "tanggal": "2019-12-01",
@@ -5892,18 +5987,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 31,
-                "village_id": 270,
-                "tanggal": "2019-03-19",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "77",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 31,
+                    "village_id": 270,
+                    "tanggal": "2019-03-19",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "77",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 15,
                 "title": "Modo",
@@ -5954,18 +6051,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 33,
-                "village_id": 273,
-                "tanggal": "2019-03-19",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "119",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 33,
+                    "village_id": 273,
+                    "tanggal": "2019-03-19",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "119",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 15,
                 "title": "Modo",
@@ -6033,18 +6132,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 128,
-                "village_id": 277,
-                "tanggal": "2019-03-08",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 1,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 128,
+                    "village_id": 277,
+                    "tanggal": "2019-03-08",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 1,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 15,
                 "title": "Modo",
@@ -8509,7 +8610,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 43,
                     "village_id": 422,
                     "tanggal": "2019-08-04",
@@ -8669,18 +8771,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 127,
-                "village_id": 430,
-                "tanggal": "2019-06-17",
-                "kepala_keluarga": 130,
-                "jiwa": 700,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 127,
+                    "village_id": 430,
+                    "tanggal": "2019-06-17",
+                    "kepala_keluarga": 130,
+                    "jiwa": 700,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 24,
                 "title": "Sukodadi",
@@ -8782,18 +8886,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 32,
-                "village_id": 436,
-                "tanggal": "2019-03-19",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "206",
-                "jalan": "0"
-            }],
+            "histories": [
+                {
+                    "id": 32,
+                    "village_id": 436,
+                    "tanggal": "2019-03-19",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "206",
+                    "jalan": "0"
+                }
+            ],
             "district": {
                 "id": 25,
                 "title": "Sukorame",
@@ -8912,18 +9018,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "rendah",
-            "histories": [{
-                "id": 35,
-                "village_id": 443,
-                "tanggal": "2019-02-04",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "50 cm"
-            }],
+            "histories": [
+                {
+                    "id": 35,
+                    "village_id": 443,
+                    "tanggal": "2019-02-04",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "50 cm"
+                }
+            ],
             "district": {
                 "id": 26,
                 "title": "Tikung",
@@ -8974,18 +9082,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 36,
-                "village_id": 446,
-                "tanggal": "2019-05-04",
-                "kepala_keluarga": 0,
-                "jiwa": 0,
-                "rumah": 0,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "0",
-                "jalan": "30 - 40 cm"
-            }],
+            "histories": [
+                {
+                    "id": 36,
+                    "village_id": 446,
+                    "tanggal": "2019-05-04",
+                    "kepala_keluarga": 0,
+                    "jiwa": 0,
+                    "rumah": 0,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "0",
+                    "jalan": "30 - 40 cm"
+                }
+            ],
             "district": {
                 "id": 26,
                 "title": "Tikung",
@@ -9087,7 +9197,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 52,
                     "village_id": 452,
                     "tanggal": "2019-10-04",
@@ -9196,7 +9307,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 58,
                     "village_id": 457,
                     "tanggal": "2019-10-04",
@@ -9334,7 +9446,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 37,
                     "village_id": 463,
                     "tanggal": "2019-06-04",
@@ -9404,7 +9517,8 @@
             "weather": "rendah",
             "history_category": "tinggi",
             "prone_category": "sedang",
-            "histories": [{
+            "histories": [
+                {
                     "id": 59,
                     "village_id": 465,
                     "tanggal": "2019-10-04",
@@ -9462,18 +9576,20 @@
             "weather": "rendah",
             "history_category": "sedang",
             "prone_category": "sedang",
-            "histories": [{
-                "id": 60,
-                "village_id": 467,
-                "tanggal": "2019-10-04",
-                "kepala_keluarga": 25,
-                "jiwa": 125,
-                "rumah": 25,
-                "sekolah": 0,
-                "kantor_desa": 0,
-                "sawah": "114",
-                "jalan": "100 cm"
-            }],
+            "histories": [
+                {
+                    "id": 60,
+                    "village_id": 467,
+                    "tanggal": "2019-10-04",
+                    "kepala_keluarga": 25,
+                    "jiwa": 125,
+                    "rumah": 25,
+                    "sekolah": 0,
+                    "kantor_desa": 0,
+                    "sawah": "114",
+                    "jalan": "100 cm"
+                }
+            ],
             "district": {
                 "id": 27,
                 "title": "Turi",
